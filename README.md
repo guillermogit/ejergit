@@ -1,0 +1,2 @@
+# ejergit
+empezando con git
